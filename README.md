@@ -1,2 +1,1 @@
-# MVP_PUCRJ_Sprint1_MachineLearning
-MVP de conclusão do primeiro Sprint
+#  MVP - Disciplina: Sprint: Análise de Dados e Boas Práticas (40530010055_20260_01)
